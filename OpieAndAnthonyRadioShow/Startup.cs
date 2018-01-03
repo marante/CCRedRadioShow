@@ -1,13 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-using Microsoft.AspNetCore.Builder;
+﻿using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using OpieAndAnthonyRadioShow.Data;
+using OpieAndAnthonyRadioShow.Services;
 
 namespace OpieAndAnthonyRadioShow
 {
@@ -27,6 +24,7 @@ namespace OpieAndAnthonyRadioShow
             services.AddDbContext<OpieAndAnthonyRadioShowDbContext>(options =>
                 options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection"))); // DefaultConnection is the name I gave our connectionstring in the app.json
 
+            services.AddScoped<IRadioShow, RadioShowService>();
             services.AddMvc();
         }
 

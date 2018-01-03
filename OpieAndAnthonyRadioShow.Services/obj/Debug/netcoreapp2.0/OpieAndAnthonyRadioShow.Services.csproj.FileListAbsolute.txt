@@ -1,0 +1,11 @@
+C:\Users\Victor\Desktop\ccred-webapp\CCRedRadioShow\OpieAndAnthonyRadioShow.Services\bin\Debug\netcoreapp2.0\OpieAndAnthonyRadioShow.Services.deps.json
+C:\Users\Victor\Desktop\ccred-webapp\CCRedRadioShow\OpieAndAnthonyRadioShow.Services\bin\Debug\netcoreapp2.0\OpieAndAnthonyRadioShow.Services.dll
+C:\Users\Victor\Desktop\ccred-webapp\CCRedRadioShow\OpieAndAnthonyRadioShow.Services\bin\Debug\netcoreapp2.0\OpieAndAnthonyRadioShow.Services.pdb
+C:\Users\Victor\Desktop\ccred-webapp\CCRedRadioShow\OpieAndAnthonyRadioShow.Services\bin\Debug\netcoreapp2.0\OpieAndAnthonyRadioShow.Data.dll
+C:\Users\Victor\Desktop\ccred-webapp\CCRedRadioShow\OpieAndAnthonyRadioShow.Services\bin\Debug\netcoreapp2.0\OpieAndAnthonyRadioShow.Data.pdb
+C:\Users\Victor\Desktop\ccred-webapp\CCRedRadioShow\OpieAndAnthonyRadioShow.Services\obj\Debug\netcoreapp2.0\OpieAndAnthonyRadioShow.Services.csprojResolveAssemblyReference.cache
+C:\Users\Victor\Desktop\ccred-webapp\CCRedRadioShow\OpieAndAnthonyRadioShow.Services\obj\Debug\netcoreapp2.0\OpieAndAnthonyRadioShow.Services.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Desktop\ccred-webapp\CCRedRadioShow\OpieAndAnthonyRadioShow.Services\obj\Debug\netcoreapp2.0\OpieAndAnthonyRadioShow.Services.AssemblyInfoInputs.cache
+C:\Users\Victor\Desktop\ccred-webapp\CCRedRadioShow\OpieAndAnthonyRadioShow.Services\obj\Debug\netcoreapp2.0\OpieAndAnthonyRadioShow.Services.AssemblyInfo.cs
+C:\Users\Victor\Desktop\ccred-webapp\CCRedRadioShow\OpieAndAnthonyRadioShow.Services\obj\Debug\netcoreapp2.0\OpieAndAnthonyRadioShow.Services.dll
+C:\Users\Victor\Desktop\ccred-webapp\CCRedRadioShow\OpieAndAnthonyRadioShow.Services\obj\Debug\netcoreapp2.0\OpieAndAnthonyRadioShow.Services.pdb

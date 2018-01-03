@@ -5044,6 +5044,19 @@
         "runtime": {
           "bin/placeholder/OpieAndAnthonyRadioShow.Data.dll": {}
         }
+      },
+      "OpieAndAnthonyRadioShow.Services/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.0",
+        "dependencies": {
+          "OpieAndAnthonyRadioShow.Data": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/OpieAndAnthonyRadioShow.Services.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/OpieAndAnthonyRadioShow.Services.dll": {}
+        }
       }
     }
   },
@@ -13126,6 +13139,11 @@
       "type": "project",
       "path": "../OpieAndAnthonyRadioShow.Data/OpieAndAnthonyRadioShow.Data.csproj",
       "msbuildProject": "../OpieAndAnthonyRadioShow.Data/OpieAndAnthonyRadioShow.Data.csproj"
+    },
+    "OpieAndAnthonyRadioShow.Services/1.0.0": {
+      "type": "project",
+      "path": "../OpieAndAnthonyRadioShow.Services/OpieAndAnthonyRadioShow.Services.csproj",
+      "msbuildProject": "../OpieAndAnthonyRadioShow.Services/OpieAndAnthonyRadioShow.Services.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -13133,7 +13151,8 @@
       "Microsoft.AspNetCore.All >= 2.0.3",
       "Microsoft.NETCore.App >= 2.0.0",
       "Microsoft.VisualStudio.Web.CodeGeneration.Design >= 2.0.0",
-      "OpieAndAnthonyRadioShow.Data >= 1.0.0"
+      "OpieAndAnthonyRadioShow.Data >= 1.0.0",
+      "OpieAndAnthonyRadioShow.Services >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -13171,6 +13190,9 @@
           "projectReferences": {
             "C:\\Users\\Victor\\Desktop\\ccred-webapp\\CCRedRadioShow\\OpieAndAnthonyRadioShow.Data\\OpieAndAnthonyRadioShow.Data.csproj": {
               "projectPath": "C:\\Users\\Victor\\Desktop\\ccred-webapp\\CCRedRadioShow\\OpieAndAnthonyRadioShow.Data\\OpieAndAnthonyRadioShow.Data.csproj"
+            },
+            "C:\\Users\\Victor\\Desktop\\ccred-webapp\\CCRedRadioShow\\OpieAndAnthonyRadioShow.Services\\OpieAndAnthonyRadioShow.Services.csproj": {
+              "projectPath": "C:\\Users\\Victor\\Desktop\\ccred-webapp\\CCRedRadioShow\\OpieAndAnthonyRadioShow.Services\\OpieAndAnthonyRadioShow.Services.csproj"
             }
           }
         }

@@ -1,11 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.26730.16
+VisualStudioVersion = 15.0.26730.15
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpieAndAnthonyRadioShow", "OpieAndAnthonyRadioShow\OpieAndAnthonyRadioShow.csproj", "{6907CBE8-B5A2-469D-83E8-738508B5844B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OpieAndAnthonyRadioShow", "OpieAndAnthonyRadioShow\OpieAndAnthonyRadioShow.csproj", "{6907CBE8-B5A2-469D-83E8-738508B5844B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpieAndAnthonyRadioShow.Data", "OpieAndAnthonyRadioShow.Data\OpieAndAnthonyRadioShow.Data.csproj", "{269CC6B0-CD94-4E11-A22B-333F6014CF3B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OpieAndAnthonyRadioShow.Data", "OpieAndAnthonyRadioShow.Data\OpieAndAnthonyRadioShow.Data.csproj", "{269CC6B0-CD94-4E11-A22B-333F6014CF3B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpieAndAnthonyRadioShow.Services", "OpieAndAnthonyRadioShow.Services\OpieAndAnthonyRadioShow.Services.csproj", "{4CF926D3-D8C9-4F91-AD67-AEA4A5B3E01C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{269CC6B0-CD94-4E11-A22B-333F6014CF3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{269CC6B0-CD94-4E11-A22B-333F6014CF3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{269CC6B0-CD94-4E11-A22B-333F6014CF3B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4CF926D3-D8C9-4F91-AD67-AEA4A5B3E01C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CF926D3-D8C9-4F91-AD67-AEA4A5B3E01C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CF926D3-D8C9-4F91-AD67-AEA4A5B3E01C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CF926D3-D8C9-4F91-AD67-AEA4A5B3E01C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
