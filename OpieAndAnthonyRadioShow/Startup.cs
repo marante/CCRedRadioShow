@@ -47,7 +47,7 @@ namespace OpieAndAnthonyRadioShow
             {
                 routes.MapRoute(
                     name: "default",
-                    template: "{controller=Home}/{action=Index}/{id?}");
+                    template: "{controller=RadioShow}/{action=Index}/{id?}");
             });
         }
     }

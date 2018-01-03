@@ -24,3 +24,5 @@ C:\Users\Victor\Desktop\ccred-webapp\CCRedRadioShow\OpieAndAnthonyRadioShow\obj\
 C:\Users\Victor\Desktop\ccred-webapp\CCRedRadioShow\OpieAndAnthonyRadioShow\obj\Debug\netcoreapp2.0\OpieAndAnthonyRadioShow.AssemblyInfo.cs
 C:\Users\Victor\Desktop\ccred-webapp\CCRedRadioShow\OpieAndAnthonyRadioShow\obj\Debug\netcoreapp2.0\OpieAndAnthonyRadioShow.dll
 C:\Users\Victor\Desktop\ccred-webapp\CCRedRadioShow\OpieAndAnthonyRadioShow\obj\Debug\netcoreapp2.0\OpieAndAnthonyRadioShow.pdb
+C:\Users\Victor\Desktop\ccred-webapp\CCRedRadioShow\OpieAndAnthonyRadioShow\bin\Debug\netcoreapp2.0\OpieAndAnthonyRadioShow.Services.dll
+C:\Users\Victor\Desktop\ccred-webapp\CCRedRadioShow\OpieAndAnthonyRadioShow\bin\Debug\netcoreapp2.0\OpieAndAnthonyRadioShow.Services.pdb
