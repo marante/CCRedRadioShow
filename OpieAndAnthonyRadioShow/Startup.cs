@@ -22,7 +22,9 @@ namespace OpieAndAnthonyRadioShow
         {
             // Injecting our DB to our services.
             services.AddDbContext<OpieAndAnthonyRadioShowDbContext>(options =>
-                options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection"))); // DefaultConnection is the name I gave our connectionstring in the app.json
+                options.UseSqlServer(
+                    Configuration.GetConnectionString(
+                        "DefaultConnection"))); // DefaultConnection is the name I gave our connectionstring in the app.json
 
             services.AddScoped<IRadioShow, RadioShowService>();
             services.AddMvc();

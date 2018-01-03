@@ -5,7 +5,7 @@
         @foreach (var show in Model.RadioShows)
         {
             <div class="radioshow-item-container">
-                <a asp-controller="Radioshow" asp-action="Detail" asp-route-id="@show.Id">
+                <a asp-controller="Radioshow" asp-action="Details" asp-route-id="@show.Id">
                     <div class="radioshowitem-content" style="background-image: url(@show.URL)"></div>
                 </a>
             </div>

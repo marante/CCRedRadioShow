@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace OpieAndAnthonyRadioShow.Data.Models
+﻿namespace OpieAndAnthonyRadioShow.Data.Models
 {
     public class RadioShowTag
     {

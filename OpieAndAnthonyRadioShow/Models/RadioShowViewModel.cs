@@ -1,8 +1,5 @@
-﻿using System;
+﻿using OpieAndAnthonyRadioShow.Data.Models;
 using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-using OpieAndAnthonyRadioShow.Data.Models;
 
 namespace OpieAndAnthonyRadioShow.Models
 {

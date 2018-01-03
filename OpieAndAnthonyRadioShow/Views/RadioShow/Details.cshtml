@@ -1,0 +1,18 @@
+﻿@model RadioShowDetailModel
+
+<div class="container body-content">
+    <div class="row radioshow-detail-container">
+        <div class="radioshow-detail">
+            <img src="@Model.Url" alt="@Model.Title" />
+        </div>
+    </div>
+    <div class="row radio-metadata">
+        <span>Title: @Model.Title</span>
+        <span>Title: @Model.Created</span>
+    </div>
+    <div class="row">
+        <a class="btn btn-primary" asp-controller="RadioShow" asp-action="Index">
+            Back to Radioshow list
+        </a>
+    </div>
+</div>

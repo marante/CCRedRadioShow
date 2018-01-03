@@ -22,7 +22,9 @@ namespace OpieAndAnthonyRadioShow.Services
 
         public RadioShow GetById(int id)
         {
-            return _dbContext.RadioShows.Find(id);
+            // Had issues with the line below not populating the show with the correct tags.
+            //return _dbContext.RadioShows.Find(id);
+            return GetAll().First(show => show.Id == id);
         }
 
         public IEnumerable<RadioShow> GetByTag(string tag)

@@ -1,7 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore.Metadata;
 using Microsoft.EntityFrameworkCore.Migrations;
 using System;
-using System.Collections.Generic;
 
 namespace OpieAndAnthonyRadioShow.Data.Migrations
 {
@@ -14,22 +13,21 @@ namespace OpieAndAnthonyRadioShow.Data.Migrations
                 columns: table => new
                 {
                     Id = table.Column<int>(nullable: false)
-                        .Annotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn),
+                        .Annotation("SqlServer:ValueGenerationStrategy",
+                            SqlServerValueGenerationStrategy.IdentityColumn),
                     AirTime = table.Column<DateTime>(nullable: false),
                     Title = table.Column<string>(nullable: true),
                     URL = table.Column<string>(nullable: true)
                 },
-                constraints: table =>
-                {
-                    table.PrimaryKey("PK_RadioShows", x => x.Id);
-                });
+                constraints: table => { table.PrimaryKey("PK_RadioShows", x => x.Id); });
 
             migrationBuilder.CreateTable(
                 name: "Guest",
                 columns: table => new
                 {
                     Id = table.Column<int>(nullable: false)
-                        .Annotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn),
+                        .Annotation("SqlServer:ValueGenerationStrategy",
+                            SqlServerValueGenerationStrategy.IdentityColumn),
                     Name = table.Column<string>(nullable: true),
                     Occupation = table.Column<string>(nullable: true),
                     RadioShowId = table.Column<int>(nullable: true)
@@ -50,7 +48,8 @@ namespace OpieAndAnthonyRadioShow.Data.Migrations
                 columns: table => new
                 {
                     Id = table.Column<int>(nullable: false)
-                        .Annotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn),
+                        .Annotation("SqlServer:ValueGenerationStrategy",
+                            SqlServerValueGenerationStrategy.IdentityColumn),
                     Description = table.Column<string>(nullable: true),
                     RadioShowId = table.Column<int>(nullable: true)
                 },
