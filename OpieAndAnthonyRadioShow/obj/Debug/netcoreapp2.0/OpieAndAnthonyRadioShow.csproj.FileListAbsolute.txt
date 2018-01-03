@@ -11,3 +11,16 @@ C:\Users\Victor\Desktop\CCRED WEB PAGE\OpieAndAnthonyRadioShow\OpieAndAnthonyRad
 C:\Users\Victor\Desktop\CCRED WEB PAGE\OpieAndAnthonyRadioShow\OpieAndAnthonyRadioShow\obj\Debug\netcoreapp2.0\OpieAndAnthonyRadioShow.AssemblyInfo.cs
 C:\Users\Victor\Desktop\CCRED WEB PAGE\OpieAndAnthonyRadioShow\OpieAndAnthonyRadioShow\obj\Debug\netcoreapp2.0\OpieAndAnthonyRadioShow.dll
 C:\Users\Victor\Desktop\CCRED WEB PAGE\OpieAndAnthonyRadioShow\OpieAndAnthonyRadioShow\obj\Debug\netcoreapp2.0\OpieAndAnthonyRadioShow.pdb
+C:\Users\Victor\Desktop\ccred-webapp\CCRedRadioShow\OpieAndAnthonyRadioShow\bin\Debug\netcoreapp2.0\OpieAndAnthonyRadioShow.deps.json
+C:\Users\Victor\Desktop\ccred-webapp\CCRedRadioShow\OpieAndAnthonyRadioShow\bin\Debug\netcoreapp2.0\OpieAndAnthonyRadioShow.runtimeconfig.json
+C:\Users\Victor\Desktop\ccred-webapp\CCRedRadioShow\OpieAndAnthonyRadioShow\bin\Debug\netcoreapp2.0\OpieAndAnthonyRadioShow.runtimeconfig.dev.json
+C:\Users\Victor\Desktop\ccred-webapp\CCRedRadioShow\OpieAndAnthonyRadioShow\bin\Debug\netcoreapp2.0\OpieAndAnthonyRadioShow.dll
+C:\Users\Victor\Desktop\ccred-webapp\CCRedRadioShow\OpieAndAnthonyRadioShow\bin\Debug\netcoreapp2.0\OpieAndAnthonyRadioShow.pdb
+C:\Users\Victor\Desktop\ccred-webapp\CCRedRadioShow\OpieAndAnthonyRadioShow\bin\Debug\netcoreapp2.0\OpieAndAnthonyRadioShow.Data.dll
+C:\Users\Victor\Desktop\ccred-webapp\CCRedRadioShow\OpieAndAnthonyRadioShow\bin\Debug\netcoreapp2.0\OpieAndAnthonyRadioShow.Data.pdb
+C:\Users\Victor\Desktop\ccred-webapp\CCRedRadioShow\OpieAndAnthonyRadioShow\obj\Debug\netcoreapp2.0\OpieAndAnthonyRadioShow.csprojResolveAssemblyReference.cache
+C:\Users\Victor\Desktop\ccred-webapp\CCRedRadioShow\OpieAndAnthonyRadioShow\obj\Debug\netcoreapp2.0\OpieAndAnthonyRadioShow.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Desktop\ccred-webapp\CCRedRadioShow\OpieAndAnthonyRadioShow\obj\Debug\netcoreapp2.0\OpieAndAnthonyRadioShow.AssemblyInfoInputs.cache
+C:\Users\Victor\Desktop\ccred-webapp\CCRedRadioShow\OpieAndAnthonyRadioShow\obj\Debug\netcoreapp2.0\OpieAndAnthonyRadioShow.AssemblyInfo.cs
+C:\Users\Victor\Desktop\ccred-webapp\CCRedRadioShow\OpieAndAnthonyRadioShow\obj\Debug\netcoreapp2.0\OpieAndAnthonyRadioShow.dll
+C:\Users\Victor\Desktop\ccred-webapp\CCRedRadioShow\OpieAndAnthonyRadioShow\obj\Debug\netcoreapp2.0\OpieAndAnthonyRadioShow.pdb

@@ -1,32 +1,12 @@
 ﻿@model OpieAndAnthonyRadioShow.Models.RadioShowViewModel
 
 <div class="container body-content">
-    <table class="table-striped">
-        <thead>
-            <tr>
-                <th>Id</th>
-                <th>Title</th>
-                <th>AirTime</th>
-                <th>URL</th>
-                <th>Tags</th>
-            </tr>
-        </thead>
-        <tbody>
-            @foreach (var show in Model.RadioShows)
-            {
-                <tr>
-                    <td>@show.Id</td>
-                    <td>@show.Title</td>
-                    <td>@show.AirTime</td>
-                    <td>@show.URL</td>
-                    <td>
-                        @foreach (var item in show.Tags)
-                        {
-                            @item.Description
-                        }
-                    </td>
-                </tr>
-            }
-        </tbody>
-    </table>
+    <div class="row radioshow-content">
+        @foreach (var show in Model.RadioShows)
+        {
+            <div class="radioshow-item-container">
+                <div class="radioshowitem-content" style="background-image: url(@show.URL)"></div>
+            </div>
+        }
+    </div>
 </div>

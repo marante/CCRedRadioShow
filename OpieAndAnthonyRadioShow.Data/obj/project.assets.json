@@ -5898,7 +5898,7 @@
   },
   "packageFolders": {
     "C:\\Users\\Victor\\.nuget\\packages\\": {},
-    "c:\\program files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
@@ -5906,14 +5906,14 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\Victor\\Desktop\\CCRED WEB PAGE\\OpieAndAnthonyRadioShow\\OpieAndAnthonyRadioShow.Data\\OpieAndAnthonyRadioShow.Data.csproj",
+      "projectUniqueName": "C:\\Users\\Victor\\Desktop\\ccred-webapp\\CCRedRadioShow\\OpieAndAnthonyRadioShow.Data\\OpieAndAnthonyRadioShow.Data.csproj",
       "projectName": "OpieAndAnthonyRadioShow.Data",
-      "projectPath": "C:\\Users\\Victor\\Desktop\\CCRED WEB PAGE\\OpieAndAnthonyRadioShow\\OpieAndAnthonyRadioShow.Data\\OpieAndAnthonyRadioShow.Data.csproj",
+      "projectPath": "C:\\Users\\Victor\\Desktop\\ccred-webapp\\CCRedRadioShow\\OpieAndAnthonyRadioShow.Data\\OpieAndAnthonyRadioShow.Data.csproj",
       "packagesPath": "C:\\Users\\Victor\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Victor\\Desktop\\CCRED WEB PAGE\\OpieAndAnthonyRadioShow\\OpieAndAnthonyRadioShow.Data\\obj\\",
+      "outputPath": "C:\\Users\\Victor\\Desktop\\ccred-webapp\\CCRedRadioShow\\OpieAndAnthonyRadioShow.Data\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "c:\\program files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
         "C:\\Users\\Victor\\AppData\\Roaming\\NuGet\\NuGet.Config",

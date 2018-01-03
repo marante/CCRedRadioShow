@@ -1,8 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
-using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Mvc;
 using OpieAndAnthonyRadioShow.Data.Models;
 using OpieAndAnthonyRadioShow.Models;
+using System;
+using System.Collections.Generic;
 
 namespace OpieAndAnthonyRadioShow.Controllers
 {
@@ -63,7 +63,7 @@ namespace OpieAndAnthonyRadioShow.Controllers
                     Id = 1,
                     Tags = tagList,
                     Title = "First radioshow with Opie and Anthony",
-                    URL = "https://www.pexels.com/photo/brown-irish-setter-754392/"
+                    URL = "https://static.pexels.com/photos/754392/pexels-photo-754392.jpeg"
                 },
                 new RadioShow()
                 {
@@ -72,7 +72,7 @@ namespace OpieAndAnthonyRadioShow.Controllers
                     Id = 2,
                     Tags = tagList,
                     Title = "Second radioshow with Opie and Anthony",
-                    URL = "https://www.pexels.com/photo/brown-and-white-wooden-houses-754339/"
+                    URL = "https://static.pexels.com/photos/754392/pexels-photo-754392.jpeg"
                 },
                 new RadioShow()
                 {
@@ -81,7 +81,7 @@ namespace OpieAndAnthonyRadioShow.Controllers
                     Id = 1,
                     Tags = tagList,
                     Title = "First radioshow with Opie and Anthony",
-                    URL = "https://www.pexels.com/photo/brown-irish-setter-754392/"
+                    URL = "https://static.pexels.com/photos/754392/pexels-photo-754392.jpeg"
                 },
                 new RadioShow()
                 {
@@ -90,7 +90,7 @@ namespace OpieAndAnthonyRadioShow.Controllers
                     Id = 1,
                     Tags = tagList,
                     Title = "First radioshow with Opie and Anthony",
-                    URL = "https://www.pexels.com/photo/brown-irish-setter-754392/"
+                    URL = "https://static.pexels.com/photos/754392/pexels-photo-754392.jpeg"
                 },
                 new RadioShow()
                 {
@@ -99,7 +99,7 @@ namespace OpieAndAnthonyRadioShow.Controllers
                     Id = 1,
                     Tags = tagList,
                     Title = "First radioshow with Opie and Anthony",
-                    URL = "https://www.pexels.com/photo/brown-irish-setter-754392/"
+                    URL = "https://static.pexels.com/photos/754392/pexels-photo-754392.jpeg"
                 },
                 new RadioShow()
                 {
@@ -108,7 +108,7 @@ namespace OpieAndAnthonyRadioShow.Controllers
                     Id = 1,
                     Tags = tagList,
                     Title = "First radioshow with Opie and Anthony",
-                    URL = "https://www.pexels.com/photo/brown-irish-setter-754392/"
+                    URL = "https://static.pexels.com/photos/754392/pexels-photo-754392.jpeg"
                 },
                 new RadioShow()
                 {
@@ -117,7 +117,7 @@ namespace OpieAndAnthonyRadioShow.Controllers
                     Id = 1,
                     Tags = tagList,
                     Title = "First radioshow with Opie and Anthony",
-                    URL = "https://www.pexels.com/photo/brown-irish-setter-754392/"
+                    URL = "https://static.pexels.com/photos/754392/pexels-photo-754392.jpeg"
                 },
             };
 
